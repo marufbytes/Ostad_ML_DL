@@ -1,0 +1,28 @@
+student_id,name,gender,department,city,age,cgpa,attendance,study_hour,scholarship,tuition_fee
+1,Ayesha Rahman,Female,CSE,Dhaka,21,3.92,95,25,Yes,65000
+2,Karim Uddin,Male,EEE,Chattogram,22,3.45,80,15,No,70000
+3,Sadia Islam,Female,CSE,Sylhet,20,3.78,88,22,Yes,65000
+4,Tamim Hossain,Male,BBA,Dhaka,23,2.95,72,10,No,55000
+5,Nabila Akter,Female,CSE,Rajshahi,21,3.66,90,20,Yes,65000
+6,Rahim Mia,Male,ME,Khulna,22,3.1,68,12,No,60000
+7,Farhana Yasmin,Female,EEE,Dhaka,20,3.88,93,24,Yes,70000
+8,Imran Khan,Male,BBA,Chattogram,24,3.25,78,14,No,55000
+9,Sumaiya Begum,Female,CSE,Dhaka,19,3.99,98,28,Yes,65000
+10,Jahid Hasan,Male,ME,Sylhet,23,2.7,65,8,No,60000
+11,Mitu Chowdhury,Female,EEE,Rajshahi,21,3.55,85,18,No,70000
+12,Rifat Ahmed,Male,CSE,Chattogram,22,3.4,82,16,No,65000
+13,Lamia Sultana,Female,BBA,Dhaka,20,3.72,89,21,Yes,55000
+14,Shakib Al Amin,Male,ME,Khulna,24,3.05,70,11,No,60000
+15,Nusrat Jahan,Female,CSE,Dhaka,21,3.81,91,23,Yes,65000
+16,Fahim Reza,Male,Civil,Barishal,22,3.3,76,13,No,58000
+17,Tania Haque,Female,EEE,Sylhet,20,3.6,87,19,No,70000
+18,Sabbir Ahmed,Male,CSE,Dhaka,23,,66,9,No,65000
+19,Rima Khatun,Female,BBA,Chattogram,21,3.5,84,17,No,55000
+20,Arif Hossain,Male,ME,Rajshahi,22,,71,12,No,60000
+21,Sharmin Akter,Female,CSE,Khulna,20,3.95,96,27,Yes,65000
+22,Nayeem Islam,Male,Civil,Dhaka,23,3.2,74,13,No,58000
+23,Jarin Tasnim,Female,EEE,Dhaka,21,3.7,88,20,Yes,70000
+24,Rakib Hasan,Male,CSE,Sylhet,22,3.35,79,15,No,65000
+25,Mehedi Hasan,Male,BBA,Barishal,24,2.6,,7,No,55000
+26,Ishrat Jahan,Female,CSE,Dhaka,20,3.85,92,24,Yes,65000
+27,Sohel Rana,Male,ME,Chattogram,23,3,69,,No,60000
